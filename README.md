@@ -1,5 +1,5 @@
 <h1>Hey, I'm Kobla Edem an
-  <a href="https://www.linkedin.com/in/kobla-edem/">An aspiring Network Security Engineer </a> and <a href=" "> automaion engineer in python </a> </h1>
+  <a href="https://www.linkedin.com/in/kobla-edem/">An aspiring Network Security Engineer </a> and <a href=" "> automations engineer in python </a> </h1>
   <b>
 
   <h2> 🤳 Connect with me:</h2>
