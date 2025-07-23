@@ -1,13 +1,2 @@
-<h1>Hey, I'm Kobla Edem an
-  <a href="https://www.linkedin.com/in/kobla-edem/">An aspiring Network Security Engineer </a> and <a href=" "> automations engineer in python </a> </h1>
-  <b>
-
-  <h2> 🤳 Connect with me:</h2>
-  
-  [<img align="left" alt="koblaedem | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-  [<img align="left" alt="koblaedem | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-  [<img align="left" alt="koblaedem | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://x.com/ea_kobla
-[instagram]: https://www.instagram.com/ea_kobla/
-[linkedin]: https://www.linkedin.com/in/kobla-edem/
+<h1>Hey, I'm <a href="https://www.linkedin.com/in/kobla-edem/">Kobla Edem</a> — an aspiring forensic analyst currently building and expanding my automation skills and cybersecurity intelligence. I publish weekly blog posts where I share my knowledge, tools, and insights <a href="https://medium.com/@theanalyst200">here</a>.
+</h1>
