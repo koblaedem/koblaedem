@@ -6,7 +6,7 @@ My work focuses on Microsoft 365, Power Platform, SharePoint, Azure and automati
 
 I am currently expanding my skills in cloud infrastructure, identity management and Infrastructure as Code while building a portfolio of real-world solutions.
 
-Open to learning, collaboration and new opportunities.
+I am open to collaboration, continuous learning and opportunities to create impactful solutions
 
 ## Current Focus:
 - Microsoft 365 Solutions
